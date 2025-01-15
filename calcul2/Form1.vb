@@ -2,7 +2,7 @@
     Dim A As String = ""
     Dim B As String = ""
     Dim op As String = ""
-
+    '/*calculatrice simple*/
 
     Private Sub Btn_9_Click(sender As Object, e As EventArgs) Handles Btn_9.Click
         If op = "" Then
